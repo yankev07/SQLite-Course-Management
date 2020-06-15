@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Course Management SQLite</string>
+
+    <string name="extended_fab_content_insert">Insert</string>
+    <string name="extended_fab_content_delete">Delete</string>
+    <string name="extended_fab_content_update">Update</string>
+    <string name="extended_fab_content_query">Query</string>
+
+    <string name="error_message_courseName">Invalid Course Name</string>
+    <string name="error_message_courseNumber">Invalid Course Number</string>
+    <string name="error_message_courseCredits">Invalid Course Credits</string>
+
+</resources>
